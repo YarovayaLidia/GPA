@@ -1,0 +1,18 @@
+/*Googole Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Macondo&display=swap');
+body{
+    font-family: Arial, sans-serif; color: white;
+    background-color: #000000;
+    h1 {
+        font-family: 'Macondo', cursive;            
+    }
+    h2 {
+        font-family: 'Macondo', cursive;            
+    }
+    h3 {
+        font-family: 'Gwendolyn', cursive;            
+    }
+    h4 {
+        font-family: 'Gwendolyn', cursive;            
+    }
+}
